@@ -5,8 +5,6 @@
 
 <img src="new_wallpaper_blood_c.png" />
 
-[![Spotify](https://novatorem-8vrkbcul1-droidzed.vercel.app/api/spotify)](https://open.spotify.com/user/9jib0d4osau56gxt26y8oca6h)
-
 </div>
 
 >*_𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝖉𝖔𝖒𝖆𝖎𝖓_*
