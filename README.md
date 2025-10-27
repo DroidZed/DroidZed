@@ -25,9 +25,9 @@
 
 ### 📈 GitHub Stats:
 
-[![3 Top Langs](https://github-readme-stats7.netlify.app/api/top-langs/?username=droidzed&theme=midnight-purple&langs_count=20&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DroidZed&theme=midnight-purple&langs_count=20&layout=compact)](https://github.com/DroidZed/github-readme-stats)
 
-[![DroidZed](https://github-readme-stats7.netlify.app/api?username=droidzed&show_icons=true&bg_color=10,6e14aa,904e95&title_color=fff&text_color=fff&include_all_commits=true&custom_title=DroidZed&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![DroidZed](https://github-readme-stats.vercel.app/api?username=DroidZed&show_icons=true&bg_color=10,6e14aa,904e95&title_color=fff&text_color=fff&custom_title=DroidZed)](https://github.com/DroidZed/github-readme-stats)
 
 <em> Thanks for visiting and have a good rest of your day 😁 </em>
 
